@@ -26,13 +26,19 @@
 
 | Tool        | Description        | Tags          | Repository          |
 | ----------- | ------------------ | ------------  | ------------------  |
+| Ironforge | Serverless Solana deployment management | SaaS, Programs, dApps | Not yet public |
 | Lava Suite | GUI for managing local Solana development | GUI, Programs, dApps | Not yet public |
 | Soda | Converts a JSON IDL to source code | Rust, TypeScript, Programs, dApps | <https://github.com/Web3-Builders-Alliance/soda> |
 | SolSync | Enables on-chain applications to fetch and deserialize off-chain data | CLI, Programs, dApps | <https://github.com/Web3-Builders-Alliance/SolSync> |
 | CAVYAR | AI-powered code snippets & autocomplete for Solana programs | Rust, Programs | Not yet public |
 | Nautilus | SQL-native Rust framework for Solana programs | Rust, TypeScript, Python, Programs | <https://github.com/nautilus-project/nautilus>  |
+| Solathon | Python SDK for backend Solana applications | Python, dApps | <https://github.com/SuperteamDAO/solathon>  |
+| EspressoCash | Fliutter SDK for Solana | Flutter, dApps, Mobile | <https://github.com/espresso-cash/espresso-cash-public>  |
 | SolCerberus | Role-based security layer for on-chain data access | Rust, TypeScript, Programs, dApps | Not yet public |
+| Omni3 | Workflow management for Solana dApps | SaaS, Programs, dApps | Not yet public |
 | BastCtrl Tools | Web-based Token/NFT utility toolbox | GUI, Programs, dApps | <https://github.com/BlastCtrl/blastctrl-tools>  |
+| SolDisperse | Web-based Token/NFT distributor | GUI, Programs, dApps | <https://github.com/HotKeysInc> |
+| HotKeys | GUI for managing software/Solana keys | GUI, Programs, dApps | Not yet public  |
 | Unreal Engine 5 SDK | Solana SDK for Unreal Engine 5 | C++, Unreal Engine, dApps, Games | <https://github.com/raresloth/carbon>  |
 | Gamba | Create on-chain betting apps on Solana with zero deployments and no costs | TypeScript, dApps, Games | <https://github.com/gamba-labs/gamba>  |
 | Carbon SDK | Bridges existing web2 game economies onto web3 | TypeScript, dApps, Games | <https://github.com/raresloth/carbon>  |
@@ -40,8 +46,10 @@
 | Space Operator | Diagram what you want to build and press play | No-Code, Programs, dApps | <https://github.com/space-operator>  |
 | Triggr | No-code automation platform for power users on Solana | No-Code, Programs, dApps | Not yet public  |
 | BlokHost | Decentralised Web Hosting & dCDN | dApps, Infrastructure | <https://github.com/blokhost>  |
+| Tiny Dancer | Light client for Solana | dApps, Infrastructure | <https://github.com/tinydancer-io>  |
 | Candy Pay | Seamless, mobile-native payment SDK | TypeScript, dApps, Mobile | <https://github.com/candypay/elements>  |
 | Saganize | Kotlin mobile development suite | Kotlin, Java, dApps, Mobile | <https://github.com/SAGAnize>  |
 | Bokken | Debugger for Solana programs | Programs, Testing | <https://github.com/Blade-Labs-Corp/bokken>  |
+| Arsnal | Debugging tools for Solana programs | Programs, Testing | <https://github.com/AnishDe12020/arsnal>  |
 | SolStromm | CI/CD for Solana programs & dApps | YAML, Programs, dApps, CI/CD | <https://github.com/Adithya2907/solana-devops/>  |
 | EventSnap | Leveraging on-chain events using an infrastructure-less approach | Rust, Programs, Logging | <https://github.com/event-snap/event-snap>  |
