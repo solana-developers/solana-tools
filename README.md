@@ -24,6 +24,7 @@
 | Better Call Sol | Open-source, web client (no setup) for composing and submitting Solana transactions | Programs, dApps, GUI | https://github.com/labeleven-dev/bettercallsol |
 | Clockwork | Smart contract automation engine | Rust, Programs | https://github.com/clockwork-xyz/clockwork |
 | Chainstack | Suite of Web3 (including Solana) infrastructure services | Nodes, API, Data | <https://chainstack.com/> |
+| Helius Labs | Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure. | RPCs, API, Developer Tools, Compression | <https://github.com/helius-labs> |
 
 ## In Development
 
