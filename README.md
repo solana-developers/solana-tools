@@ -22,6 +22,7 @@
 | Concise Labs GraphQL API | GraphQL API for Solana program data | API, dApps | <https://api-docs.conciselabs.io/docs/get-started/GraphQL%20API> |
 | Xray | Human-readable Solana transaction explorer powered by Helius | Explorer, Programs, dApps | <https://github.com/helius-labs/xray> |
 | Better Call Sol | Open-source, web client (no setup) for composing and submitting Solana transactions | Programs, dApps, GUI | https://github.com/labeleven-dev/bettercallsol |
+| Clockwork | Smart contract automation engine | Rust, Programs | https://github.com/clockwork-xyz/clockwork |
 ## In Development
 
 | Tool        | Description        | Tags          | Repository          |
