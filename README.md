@@ -21,6 +21,7 @@
 | Underdog API | Seamlessly integrate dynamic NFTs into your product | API, dApps | <https://underdogprotocol.com/> |
 | Concise Labs GraphQL API | GraphQL API for Solana program data | API, dApps | <https://api-docs.conciselabs.io/docs/get-started/GraphQL%20API> |
 | Xray | Human-readable Solana transaction explorer powered by Helius | Explorer, Programs, dApps | <https://github.com/helius-labs/xray> |
+| Chainstack | Suite of Web3 (including Solana) infrastructure services | Nodes, API, Data | <https://chainstack.com/> |
 
 ## In Development
 
