@@ -21,6 +21,8 @@
 | Underdog API | Seamlessly integrate dynamic NFTs into your product | API, dApps | <https://underdogprotocol.com/> |
 | Concise Labs GraphQL API | GraphQL API for Solana program data | API, dApps | <https://api-docs.conciselabs.io/docs/get-started/GraphQL%20API> |
 | Xray | Human-readable Solana transaction explorer powered by Helius | Explorer, Programs, dApps | <https://github.com/helius-labs/xray> |
+| Better Call Sol | Open-source, web client (no setup) for composing and submitting Solana transactions | Programs, dApps, GUI | https://github.com/labeleven-dev/bettercallsol |
+| Clockwork | Smart contract automation engine | Rust, Programs | https://github.com/clockwork-xyz/clockwork |
 | Chainstack | Suite of Web3 (including Solana) infrastructure services | Nodes, API, Data | <https://chainstack.com/> |
 
 ## In Development
@@ -54,3 +56,4 @@
 | Arsnal | Debugging tools for Solana programs | Programs, Testing | <https://github.com/AnishDe12020/arsnal>  |
 | SolStromm | CI/CD for Solana programs & dApps | YAML, Programs, dApps, CI/CD | <https://github.com/Adithya2907/solana-devops/>  |
 | EventSnap | Leveraging on-chain events using an infrastructure-less approach | Rust, Programs, Logging | <https://github.com/event-snap/event-snap>  |
+| Solex | VSCode extension to learn Solana development with bite-sized exercises | Rust, Programs, Learn | Not yet public |
