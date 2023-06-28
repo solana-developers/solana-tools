@@ -23,8 +23,6 @@
 | Xray | Human-readable Solana transaction explorer powered by Helius | Explorer, Programs, dApps | <https://github.com/helius-labs/xray> |
 | Helius Labs | Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure. | RPCs, API, Developer Tools, Compression | <https://github.com/helius-labs> |
 
-
-
 ## In Development
 
 | Tool        | Description        | Tags          | Repository          |
