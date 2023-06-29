@@ -27,6 +27,7 @@
 | Chainstack | Suite of Web3 (including Solana) infrastructure services | Nodes, API, Data | <https://chainstack.com/> |
 | Helius Labs | Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure. | RPCs, API, Developer Tools, Compression | <https://github.com/helius-labs> |
 | Stockpile | Community crowdfunding tools for a variety of projects and initiatives | Rust, Programs, dApps | <https://github.com/StockpileProtocol/stockpile> |
+| Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
 
 ## In Development
 
