@@ -7,7 +7,7 @@
 | Tool        | Description        | Tags          | Repository          |
 | ----------- | ------------------ | ------------  | ------------------  |
 | Solana Wallet Adapter | Allows out-of-the-box components for providing web users a way to connect their wallet | TypeScript, dApps | <https://github.com/solana-labs/wallet-adapter> |
-| Solana Wallet Names | Resolves wallet names (.sol, glow, .abc, .backpack etc) to wallet addresses all of Solana, including ✨8✨ different name services and ✨5✨ different profile picture (PFP) services. | TypeScript, dApps | <https://github.com/portalpayments/solana-wallet-names>
+| Solana Wallet Names | Resolves wallet names (.sol, glow, .abc, .backpack etc) to wallet addresses all of Solana, including 8 different name services and 5 different profile picture (PFP) services. | TypeScript, dApps | <https://github.com/portalpayments/solana-wallet-names>
 | Anchor | Solana program framework | Rust, TypeScript, Programs, dApps | <https://github.com/coral-xyz/anchor> |
 | AnchorPy | Anchor client library for Python | Python, dApps | <https://github.com/kevinheavey/anchorpy> |
 | Shank | IDL generation from Solana Native Rust| Rust, Programs | <https://github.com/metaplex-foundation/shank> |
