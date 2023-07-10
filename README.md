@@ -30,6 +30,7 @@
 | Helius Labs | Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure. | RPCs, API, Developer Tools, Compression | <https://github.com/helius-labs> |
 | Stockpile | Community crowdfunding tools for a variety of projects and initiatives | Rust, Programs, dApps | <https://github.com/StockpileProtocol/stockpile> |
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
+| Metaboss | The Metaplex NFT 'Swiss Army Knife' tool | Rust, CLI, NFTs | <https://github.com/samuelvanderwaal/metaboss> |
 
 ## In Development
 
