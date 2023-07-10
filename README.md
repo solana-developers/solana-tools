@@ -10,6 +10,7 @@
 | Solana Wallet Names | Resolves wallet names (.sol, glow, .abc, .backpack etc) to wallet addresses all of Solana, including 8 different name services and 5 different profile picture (PFP) services. | TypeScript, dApps | <https://github.com/portalpayments/solana-wallet-names>
 | Anchor | Solana program framework | Rust, TypeScript, Programs, dApps | <https://github.com/coral-xyz/anchor> |
 | AnchorPy | Anchor client library for Python | Python, dApps | <https://github.com/kevinheavey/anchorpy> |
+| Amman | A set of tools to help test solana SDK libraries and apps on a locally running validator. | TypeScript, Rust, Testing | <https://github.com/metaplex-foundation/amman> |
 | Shank | IDL generation from Solana Native Rust| Rust, Programs | <https://github.com/metaplex-foundation/shank> |
 | Solita | Generates a TypeScript client for an IDL | TypeScript, Programs, dApps | <https://github.com/metaplex-foundation/solita> |
 | Seahorse | Python framework for writing Solana programs | Python, Programs | <https://github.com/ameliatastic/seahorse-lang> |
