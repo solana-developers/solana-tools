@@ -32,6 +32,7 @@
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
 | Metaboss | The Metaplex NFT 'Swiss Army Knife' tool | Rust, CLI, NFTs | <https://github.com/samuelvanderwaal/metaboss> |
 | Nonci | API and SDK tool for queuing and executing transactions asynchronously using durable nonces to handle crazy bursts! | Typescript, SDK, API | <https://github.com/nonci-xyz> |
+| Particle Network WaaS | Application-embedded Wallet-as-a-Service powered by MPC-TSS enabling social logins. | TypeScript, GUI, Wallet, Infrastructure | https://particle.network | 
 
 ## In Development
 
