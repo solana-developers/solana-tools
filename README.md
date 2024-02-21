@@ -66,3 +66,4 @@
 | EventSnap | Leveraging on-chain events using an infrastructure-less approach | Rust, Programs, Logging | <https://github.com/event-snap/event-snap>  |
 | Solex | VSCode extension to learn Solana development with bite-sized exercises | Rust, Programs, Learn | Not yet public |
 | anchor-errors | A TUI which acts as an explorer for errors of native programs (and other popular solana programs) | Rust, Programs, Logging | <https://github.com/0xmukesh/anchor-errors> | 
+| Gibwork | Get paid for Open Source Contributions  | Rust, TypeScript, Open source | Not yet public |
