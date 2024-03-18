@@ -32,6 +32,8 @@
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
 | Metaboss | The Metaplex NFT 'Swiss Army Knife' tool | Rust, CLI, NFTs | <https://github.com/samuelvanderwaal/metaboss> |
 | Nonci | API and SDK tool for queuing and executing transactions asynchronously using durable nonces to handle crazy bursts! | Typescript, SDK, API | <https://github.com/nonci-xyz> |
+| Tatum | Blockchain Development Plaform - All you need to build Web3 applications on Solana | RPC Nodes, JavaScript SDK, Blockchain API, Fee Estimation, Notifications, Developer Tools | <https://tatum.io> |
+
 
 ## In Development
 
