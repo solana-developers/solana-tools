@@ -27,6 +27,7 @@
 | Clockwork | Smart contract automation engine | Rust, Programs | https://github.com/clockwork-xyz/clockwork |
 | QuickNode | Fastest Solana RPC with global coverage and full archival data | RPCs, API, NFT API, Developer Tools | <https://quicknode.com> |
 | Chainstack | Suite of Web3 (including Solana) infrastructure services | Nodes, API, Data | <https://chainstack.com/> |
+| DexPaprika | Free DEX data API with Solana support. Pools, tokens, OHLCV, trades, real-time SSE streaming across 34 chains. No API key. | API, Data, DEX | <https://api.dexpaprika.com> |
 | Helius Labs | Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure. | RPCs, API, Developer Tools, Compression | <https://github.com/helius-labs> |
 | Stockpile | Community crowdfunding tools for a variety of projects and initiatives | Rust, Programs, dApps | <https://github.com/StockpileProtocol/stockpile> |
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
