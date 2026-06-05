@@ -32,6 +32,7 @@
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
 | Metaboss | The Metaplex NFT 'Swiss Army Knife' tool | Rust, CLI, NFTs | <https://github.com/samuelvanderwaal/metaboss> |
 | Nonci | API and SDK tool for queuing and executing transactions asynchronously using durable nonces to handle crazy bursts! | Typescript, SDK, API | <https://github.com/nonci-xyz> |
+| SolScript | Write Solana programs in Solidity syntax — compiles to standard Anchor programs or directly to BPF | Rust, Programs, CLI | <https://github.com/cryptuon/solscript> |
 
 ## In Development
 
