@@ -32,6 +32,7 @@
 | Elusiv SDK | SDK for adding zk-privacy to dApps | TypeScript, dApps, Privacy | <https://github.com/elusiv-privacy/elusiv-sdk> |
 | Metaboss | The Metaplex NFT 'Swiss Army Knife' tool | Rust, CLI, NFTs | <https://github.com/samuelvanderwaal/metaboss> |
 | Nonci | API and SDK tool for queuing and executing transactions asynchronously using durable nonces to handle crazy bursts! | Typescript, SDK, API | <https://github.com/nonci-xyz> |
+| SOL.repair | Close empty SPL and Token-2022 accounts from a browser wallet and reclaim the locked rent. Open source, 1% success fee. | dApps, GUI | <https://github.com/sol-repair/sol.repair> |
 
 ## In Development
 
